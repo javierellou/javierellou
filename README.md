@@ -6,6 +6,6 @@ I am a Newbie in the programming world, but I am proggraming a lot so I can impr
 
 I usually use Python or Haxe for my projects, and for contests or problems I use C++ (Cuzz it's the GOAT of CP).
 
-Also, I am from Spain and I'm studying 4ºESO 15-16 years-old (I hope that I remember to update this next year), so my English is not the best. 
+Also, I am from Spain and I'm studying 1ºBach 16-17 years-old (I hope that I remember to update this next year), so my English is not the best. 
 
 My web page: [javiereo.neocities.org](https://javiereo.neocities.org/)
