@@ -9,3 +9,5 @@ I usually use Python or Haxe for my projects, and for contests or problems I use
 Also, I am from Spain and I'm studying 1ºBach 16-17 years-old (I hope that I remember to update this next year), so my English is not the best. 
 
 My web page: [javiereo.neocities.org](https://javiereo.neocities.org/)
+
+My codeberg (I am going to start using it instead of github): [https://codeberg.org/javiereo](https://codeberg.org/javiereo)
